@@ -1,0 +1,32 @@
+_repo: Heroes-of-Modern-Europe_21114
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birkhead, Alice
+    gutenberg_agent_id: '9741'
+    url: http://www.gutenberg.org/2009/agents/9741
+description: ''
+gutenberg_issued: '2007-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21114'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Biography'
+- !lcc 'D'
+- !lcsh 'Europe -- History'
+tableOfContents: The two swords -- Dante, the divine poet -- Lorenzo the Magnificent
+  -- The prior of San Marco -- Martin Luther, reformer of the church -- Charles V,
+  holy Roman emperor -- The beggars of the sea -- William the Silent, father of his
+  country -- Henry of Navarre -- Under the red robe -- The grand monarch -- Peter
+  the Great -- The royal robber -- Spirits of the age -- The man from Corsica -- "God
+  and the people" -- "For Italy and Victor Emmanuel!" -- The third Napoleon -- The
+  reformer of the East -- The hero in history.
+title: Heroes of Modern Europe
+url: http://www.gutenberg.org/ebooks/21114
